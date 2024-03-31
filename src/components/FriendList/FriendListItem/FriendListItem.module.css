@@ -1,0 +1,31 @@
+.card{
+  flex-direction: column;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 100px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+.img{
+    width: 85px;
+    margin: auto;
+}
+.title{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 600;
+}
+.text{
+    margin: 0;
+}
+.isOnline {
+    color: green;
+  }
+  
+  .isOffline {
+    color: red;
+  }
