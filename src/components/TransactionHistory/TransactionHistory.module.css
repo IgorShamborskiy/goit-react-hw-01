@@ -1,0 +1,26 @@
+.table{
+    margin: auto;
+    width: 450px;
+  border-collapse: collapse;
+}
+.head{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.border {
+    border: 2px solid black;
+  }
+  .colorBgGrey {
+    background-color: gray;
+  }
+  
+  .colorBgWhite {
+    background-color: white;
+  }
+  .cell {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+  }
