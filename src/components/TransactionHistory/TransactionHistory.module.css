@@ -24,3 +24,6 @@
     text-align: center;
     border: 2px solid black;
   }
+  .bodyItem:nth-child(odd) {
+    background-color: lightgray;
+}
